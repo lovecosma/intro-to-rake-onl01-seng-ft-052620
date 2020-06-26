@@ -20,10 +20,10 @@ end
 
 
 
-namespace :db do
-
-    task :migrate => :environment => do
-
-    end
-
-end
+# namespace :db do
+#
+#     task :migrate => :environment => do
+#
+#     end
+#
+# end
