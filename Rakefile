@@ -22,6 +22,6 @@ end
 
 namespace :db do
 
-task
+task :migrate 
 
 end
