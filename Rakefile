@@ -22,7 +22,7 @@ end
 
 namespace :db do
 
-task :migrate => :environment =>
-  
+task :migrate => :environment => do 
+
 
 end
